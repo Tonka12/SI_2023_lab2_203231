@@ -1,7 +1,7 @@
 # SI_2023_lab2_203231
 Antonio Ivanov 203231
 
-2.![CFGSlika](https://github.com/Tonka12/SI_2023_lab2_203231/assets/74842084/852d0c06-7619-4143-9e2a-6483390af3f5)
+2.![Drawing1](https://github.com/Tonka12/SI_2023_lab2_203231/assets/74842084/cac2742c-e632-4ecc-97f0-1d7afac431d7) / https://drive.google.com/file/d/1bnMocSWSJDr6JdMeE22rOd0gcJWsdZIF/view?usp=sharing 
 
 3.
 Цикломатска комплексност = 11
